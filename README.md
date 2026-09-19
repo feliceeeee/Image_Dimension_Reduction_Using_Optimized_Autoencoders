@@ -17,6 +17,7 @@ A deep learning project that compresses and reconstructs grayscale images (ships
 The dataset consists of grayscale images from two classes drawn from the Overhead-MNIST dataset:
 - Ship: 8,012 images
 - Helicopter: 5,906 images
+
 Total: 13,918 images, resized to 28x28 pixels and normalized to a [0, 1] pixel range.
 Data was split into training (80%), validation (10%), and test (10%) sets using stratified sampling to preserve class proportions across splits.
 
