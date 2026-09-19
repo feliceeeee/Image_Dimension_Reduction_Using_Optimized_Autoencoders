@@ -45,7 +45,7 @@ The notebook was developed using Python and Jupyter Notebook (originally run on 
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/image-dimension-reduction-autoencoder.git
+git clone https://github.com/feliceeeee/Image_Dimension_Reduction_Using_Optimized_Autoencoders.git
 ```
 
 2. Install the required libraries:
