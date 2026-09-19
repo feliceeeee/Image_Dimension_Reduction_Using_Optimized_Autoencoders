@@ -55,5 +55,5 @@ pip install numpy pandas matplotlib pillow scikit-learn tensorflow scikit-image 
 ```
 
 3. Ensure the dataset (Overhead-MNIST ship and helicopter images) is extracted to: `data/version2/train` dan `data/version2/test`, each containing `ship/` and `helicopter/` subfolders
-4. Open the notebook: `notebooks/image_dimension_reduction_autoencoder.ipynb`
+4. Open the notebook: `notebook/Image Dimension Reduction Using Optimized Autoencoders.ipynb`
 5. Run all cells to perform data preprocessing, baseline and modified autoencoder training, and SSIM-based evaluation.
